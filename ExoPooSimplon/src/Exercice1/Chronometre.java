@@ -9,7 +9,7 @@ public class Chronometre {
 	}
 	
 	public double avancer(long avancer) {
-		return this.TEMP += avancer;
+		return this.TEMP = this.TEMP  + avancer;
 	}
 	
 	public double reculer(long reculer) {

@@ -7,5 +7,4 @@
  */
 module POOSimplon {
 	requires java.sql;
-	
 }
